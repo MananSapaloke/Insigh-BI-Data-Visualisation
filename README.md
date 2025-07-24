@@ -1,6 +1,5 @@
 # Insigh BI - Data Visualization for Business Optimization
 
-
 A comprehensive Power BI dashboard designed to transform complex business data into clear, actionable insights. This project empowers decision-makers to analyze financial performance, understand supply chain dynamics, and strategically optimize operations for growth and efficiency.
 
 ---
@@ -21,6 +20,7 @@ The clean, modern interface ensures that even complex data is presented in a dig
 
 ### Financial Overview
 Page 1 - This view provides a snapshot of the company's financial standing, tracking core profitability metrics.
+
 
 
 *   **Total Profit:** `22K` - The cumulative profit generated.
@@ -67,7 +67,7 @@ To explore this dashboard on your local machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/Insigh-BI-Data-Visualisation.git
+    git clone https://github.com/MananSapaloke/Insigh-BI-Data-Visualisation.git
     ```
 2.  **Navigate to the project directory:**
     ```sh

@@ -19,18 +19,18 @@ The clean, modern interface ensures that even complex data is presented in a dig
 ## 📊 Dashboard Preview
 
 ### Financial Overview
-Page 1 - This view provides a snapshot of the company's financial standing, tracking core profitability metrics.
+This view provides a snapshot of the company's financial standing, tracking core profitability metrics.
 
-
+![Financial Overview](https://github.com/MananSapaloke/Insigh-BI-Data-Visualisation/blob/main/Page1.jpg?raw=true)
 
 *   **Total Profit:** `22K` - The cumulative profit generated.
 *   **Total Loss:** `97K` - The cumulative loss incurred.
 *   **Average Daily Loss:** `88.84` - The average loss per day, highlighting the daily financial impact of operational issues.
 
 ### Supply & Demand Analysis
-Page 2 - This view focuses on the operational balance between customer demand and product availability.
+This view focuses on the operational balance between customer demand and product availability.
 
-
+![Supply & Demand Analysis](https://github.com/MananSapaloke/Insigh-BI-Data-Visualisation/blob/main/Page2.jpg?raw=true)
 
 *   **Average Demand per Day:** `3.40` - The average number of units requested daily.
 *   **Average Availability per Day:** `2.87` - The average number of units available in stock daily.
@@ -43,7 +43,7 @@ Page 2 - This view focuses on the operational balance between customer demand an
 *   **At-a-Glance KPIs:** Critical metrics are displayed in prominent cards for quick and easy interpretation.
 *   **Dual-Focus Design:** Dedicated views for both financial and operational analysis.
 *   **Modern UI/UX:** A sleek, dark-themed design reduces visual clutter and enhances data focus.
-*   **Interactive Filtering:** A powerful **Order Date** slicer allows users to filter the entire report to analyze performance over specific timeframes (e.g., last quarter, specific month, or all time).
+*   **Interactive Filtering:** Powerful slicers for **Order Date** and **Product Name** allow users to filter the entire report to analyze performance over specific timeframes or for particular products.
 *   **Actionable Insights:** By correlating financial losses with supply shortages, the dashboard helps pinpoint root causes of unprofitability.
 
 ---
@@ -78,7 +78,7 @@ To explore this dashboard on your local machine:
 
 4.  **Interact with the dashboard:**
     *   Explore the different pages and visuals.
-    *   Use the `Order Date` slicer to see how the metrics change over different periods.
+    *   Use the `Order Date` and `Product Name` slicers to see how the metrics change.
 
 ---
 
@@ -98,3 +98,5 @@ This project serves as a strong foundation. Future development could include:
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/MananSapaloke/Insigh-BI-Data-Visualisation/issues).
 
 ---
+
+Connect with me on LinkedIn - http://www.linkedin.com/in/manansapaloke :)
